@@ -7,8 +7,13 @@ body {
     line-height: 1.6;
 }
 header {
+<<<<<<< HEAD
     background-color: #0f0d17;
     color: rgb(114, 7, 125);
+=======
+    background-color:rgb(114, 7, 125);
+    color: white;
+>>>>>>> 653cb2c272f59b991d1b236df720d8e3119634b7
     padding: 20px;
     text-align: center;
 }
@@ -41,7 +46,11 @@ main img {
 footer {
     background-color: #333333;
     color: white;
+<<<<<<< HEAD
     text-align: left;
+=======
+    text-align: center;
+>>>>>>> 653cb2c272f59b991d1b236df720d8e3119634b7
     padding: 20px;
     position: fixed;
     bottom: 0;
