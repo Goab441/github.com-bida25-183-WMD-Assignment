@@ -6,18 +6,18 @@ body {
     padding: 0;
     line-height: 1.6;
 }
-header {     background-color: white;
+header {     background-color: #f0f0f0;
     color: black;
-    padding: 50px;
+    padding: 60px;
     text-align: left;
 }
 
 header h1 {
-    margin: 0 9px;
+    margin: 0 10px;
 }
 
 nav a {
-    color: white;
+    color: #8d15a8ed
     text-decoration: none;
     margin: 0 10px;
 }
