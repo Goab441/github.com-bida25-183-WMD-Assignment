@@ -4,9 +4,12 @@ body{
     color: black;
 }
 footer{
-    background-color: black;
     color: burlywood;
     font-size: xx-large;
     font-family:Georgia, 'Times New Roman', serif;
     text-align: center;
+}
+img{
+    padding: 10px;
+    border: 2px solid bisque;
 }
