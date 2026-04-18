@@ -3,3 +3,10 @@ body{
     background-color: blueviolet;
     color: black;
 }
+footer{
+    background-color: black;
+    color: burlywood;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', serif;
+    text-align: center;
+}
