@@ -26,12 +26,19 @@
             </header>
 
         <form action="acknowledgement.html">
-            
-            <input type="text" placeholder="Name" required>
-            <input type="email" placeholder="Email" required>
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <label for="name">Name:</label><br>
+                    <input type="text" id="name" name="name" required><br>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email" required><br>
+                </div>
+            </div>
             <div class="mb-3">
-                <label for="feedback" class="form-label">Feedback</label>
-                <textarea class="form-control" id="feedback" rows="3" placeholder="Your feedback here..." required></textarea>
+                <label for="feedback" class="form-label">Your Feedback:</label>
+                <textarea class="form-control" id="feedback" rows="3" placeholder="Give us your feedback about your favorite type of crocs and your experience about the website and you may also suggest improvements."></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
