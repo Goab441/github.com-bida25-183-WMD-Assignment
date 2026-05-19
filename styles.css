@@ -2,6 +2,7 @@ body{
     font-family: "Times New Roman", serif;
     background-color: blueviolet;
     color: black;
+    font-size: large;
 }
 footer{
     color: burlywood;
@@ -9,7 +10,8 @@ footer{
     font-family:Georgia, 'Times New Roman', serif;
     text-align: center;
 }
-img{
-    padding: 10px;
-    margin: 10px;
+container{
+     width: 80%;
+    margin: auto;
+    padding: 20px;
 }
